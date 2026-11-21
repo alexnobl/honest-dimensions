@@ -1,7 +1,7 @@
 
 # ADR-006: Adopt a Layered Multi-Tenant Security Strategy
 
-- Status: Proposed
+- Status: Accepted
 - Date: 2026-11-21
 
 ## 1. Context

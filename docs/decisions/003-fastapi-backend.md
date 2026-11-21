@@ -1,7 +1,7 @@
 
 # ADR-003: Choose FastAPI as the Backend Framework
 
-- Status: Proposed
+- Status: Accepted
 - Date: 2026-11-21
 
 ## 1. Context

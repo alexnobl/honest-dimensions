@@ -1,7 +1,7 @@
 
 # ADR-004: Introduce an LLM Provider Abstraction Layer
 
-- Status: Proposed
+- Status: Accepted
 - Date: 2026-11-21
 
 ## 1. Context

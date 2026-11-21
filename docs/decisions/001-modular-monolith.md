@@ -1,6 +1,6 @@
 # ADR-001: Use a Modular Monolith for the Initial Backend
 
-- Status: Proposed
+- Status: Accepted
 - Date: 2026-11-20
 - Decision Owners: HONEST DIMENSIONS Project
 

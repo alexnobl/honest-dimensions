@@ -1,7 +1,7 @@
 
 # ADR-007: Adopt a Local-First Development Strategy
 
-- Status: Proposed
+- Status: Accepted
 - Date: 2026-11-21
 
 ## 1. Context

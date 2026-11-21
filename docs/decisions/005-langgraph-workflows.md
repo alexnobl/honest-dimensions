@@ -1,7 +1,7 @@
 
 # ADR-005: Use LangGraph for Stateful AI Workflows
 
-- Status: Proposed
+- Status: Accepted
 - Date: 2026-11-21
 
 ## 1. Context
