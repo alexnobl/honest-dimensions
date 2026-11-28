@@ -2,4 +2,7 @@ fastapi
 uvicorn[standard]
 pydantic-settings
 pytest
-httpx
+httpx2
+sqlalchemy
+psycopg[binary]
+alembic
